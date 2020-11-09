@@ -1,0 +1,34 @@
+#ukrane1{
+    height: 200px;
+    background-color: blue;
+}
+#ukrane2{
+    height: 200px;
+    background-color: yellow;
+    border: 5px solid black;
+}
+
+#fr1{ height: 200px;  background-color: blue;
+    width: 200px; display: inline-block;
+ } 
+#fr2{ height: 200px; 
+    width: 50px; display: inline-block;
+}
+#fr3{ height: 200px; background-color: red; 
+    width: 400px; display: inline-block;
+}
+#fr4{ height: 50px; border: 1px solid blue; 
+    width: 650px;
+}
+
+#ar1{ height: 200px;  background-color: blue;
+    
+ } 
+#ar2{ height: 200px; border: 2px solid black;
+      text-align: center;  
+}
+#ar3{ height: 200px; background-color: blue; 
+    
+}
+
+
